@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um chat responsivo
+Um chat
 
 ## 🔖 Layout
 
